@@ -10,3 +10,5 @@ for (let i=0; i<iniString.length; i++){
         console.log(i)
     }
 }
+
+const name = "Sunny Chandra"
